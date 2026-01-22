@@ -22,11 +22,11 @@ A sleek, full-stack web application for tracking income and expenses with a mode
 
 | Dashboard Overview | Transaction Management |
 |:------------------:|:----------------------:|
-| ![Dashboard Screenshot](path/to/dashboard-screenshot.png) | ![Transactions Screenshot](path/to/transactions-screenshot.png) |
+| ![Dashboard Screenshot](./docs/images/dashboard-screenshot.png) | ![Transactions Screenshot](./docs/images/transactions-screenshot.png) |
 
 | Login Page | Register Page |
 |:----------:|:-------------:|
-| ![Login Screenshot](path/to/login-screenshot.png) | ![Register Screenshot](path/to/register-screenshot.png) |
+| ![Login Screenshot](./docs/images/login-screenshot.png) | ![Register Screenshot](./docs/images/register-screenshot.png) |
 
 ---
 
