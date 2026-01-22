@@ -18,8 +18,6 @@ A sleek, full-stack web application for tracking income and expenses with a mode
 
 ## 📸 Screenshots
 
-> *Add your screenshots here to showcase the application*
-
 | Dashboard Overview | Transaction Management |
 |:------------------:|:----------------------:|
 | ![Dashboard Screenshot](./docs/images/dashboard-screenshot.png) | ![Transactions Screenshot](./docs/images/transactions-screenshot.png) |
@@ -102,7 +100,7 @@ finance-management/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/finance-management.git
+git clone https://github.com/ramadhanzakki/personal-finance-dashboard.git
 cd finance-management
 ```
 
@@ -195,12 +193,6 @@ Open your browser and navigate to `http://localhost:5173` to start managing your
 ⭐ If you found this project helpful, please consider giving it a star!
 
 </div>
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
